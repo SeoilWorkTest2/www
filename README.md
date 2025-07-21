@@ -1,2 +1,2 @@
 # www
-developer_b 개발 내용
+feature a 기능을 개발했습니다.
